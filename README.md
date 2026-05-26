@@ -6,7 +6,7 @@ A classic Tetris clone built with Python and Pygame. The game uses asyncio to su
 
 ## Play Online
 
-**[Play Tetris in your Browser Here!](INSERT_YOUR_GITHUB_PAGES_LINK_HERE)**
+**[Play Tetris in your Browser Here.](https://revathii-nair.github.io/Tetris/)**
 
 ---
 
