@@ -2,6 +2,10 @@ from grid import Grid
 from blocks import *
 import random
 import pygame
+import json
+import os
+
+SCORE_FILE = "high_score.json"
 
 class Game:
     def __init__(self):

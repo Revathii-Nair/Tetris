@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+ENV/
